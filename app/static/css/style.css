@@ -6,7 +6,7 @@ body{
 .jumbotron {
     background-color: #f4511e;
     color:#ffffff;
-    padding: 50px;
+    padding: 100px;
 }
 
 .navbar{
@@ -33,10 +33,9 @@ input{
     width: 40%;
 
 }
-
 .navbar-nav li a:hover{
     color:#f4511e !important;
-    background-color: #ffffff;
+    background-color: #070707;
 }
 
 form {
@@ -44,4 +43,10 @@ form {
     justify-content: center;
     align-items: center;
     
+}
+#basic-addon2{
+    background-color: #d9534f;
+    border-color: #d9534f;
+    color: #fff
+
 }
