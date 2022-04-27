@@ -1,7 +1,12 @@
+
+body{
+    margin: 0 !important;
+}
+
 .jumbotron {
     background-color: #f4511e;
     color:#ffffff;
-    padding: 100px;
+    padding: 50px;
 }
 
 .navbar{
@@ -9,7 +14,10 @@
     color: #ffffff;
     text-transform: uppercase;
 }
+.navbar-toggler{
+    background-color: white
 
+}
 #myNavBar{
     float: right !important;
     padding-left: 80px;
